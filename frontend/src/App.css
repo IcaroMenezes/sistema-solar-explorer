@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+} 
+
+.doto {
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  color: rgb(223, 223, 223);
+  font-variation-settings:
+    "ROND" 0;
+}
